@@ -1,3 +1,8 @@
+Nova Nlopt based on version 2.2.4.
+Original nlopt repository: https://github.com/stevengj/nlopt
+
+___
+
 NLopt is a library for nonlinear local and global optimization, for
 functions with and without gradient information.  It is designed as
 as simple, unified interface and packaging of several free/open-source
